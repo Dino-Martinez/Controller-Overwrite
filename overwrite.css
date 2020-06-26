@@ -1,7 +1,7 @@
 /*OVERWRITE FOR CONTROLLER OVERLAY*/
-.controller{
-  width:100px;
-  height:100px;
-  background:#000;
-  color:#fff;
+body,html{
+  background:#f00!important;
+}
+.controller.ds4{
+  background:url("https://i.imgur.com/c9kcwTY.png")!important;
 }
