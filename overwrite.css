@@ -3,7 +3,42 @@ body,html{
   background:#f00!important;
 }
 .controller.ds4{
-  background:url("https://i.imgur.com/WPouOPB.png")!important;
+  background:url("https://i.imgur.com/8fSdlRY.png")!important;
   width:806px!important;
   height:598px!important;
 }
+.ds4 .bumpers{
+  width:581px!important;
+  left:110px!important;
+  top:96px!important;
+}
+.ds4 .triggers{
+  width:585px!important;
+  left:110px!important;
+  top:1px!important;
+}
+.ds4 .b{
+  background-position: -57px 0!important;
+  top:61px!important;
+  right:-2px!important;
+}
+.ds4 .x{
+  background-position: -113px 0!important;
+  top:61px!important;
+}
+
+.ds4 .a{
+  bottom:-3px!important;
+}
+.ds4 .touchpad{
+  width:256px!important;
+  height:145px!important;
+  left:274px!important;
+  top:130px!important;
+  border-radius:12px!important;
+}
+
+
+
+
+
